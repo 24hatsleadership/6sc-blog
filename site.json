@@ -4,7 +4,16 @@
   "base": "https://blog.6stringcreative.com",
   "theme_color": "#111f32",
   "desc": "Straight-talking marketing advice for local small businesses: websites, social media, Google Business Profile, reviews, and local SEO.",
-  "font_url": "https://fonts.googleapis.com/css2?family=Inter:wght@400;500;700&family=Montserrat:wght@500;700;800&display=swap",
+  "author": "6 String Creative",
+  "podcast_url": "https://podcast.6stringcreative.com",
+  "font_url": "https://fonts.googleapis.com/css2?family=Inter:wght@400;500;700&family=Montserrat:wght@500;700;800&family=Press+Start+2P&display=swap",
+  "hero_image": "assets/hero-studio.png",
+  "hero_image_alt": "Dan and Kate behind the desk in the Marketing Tune-Up studio, with the on-air sign lit",
+  "hero_width": 1920,
+  "hero_height": 900,
+  "onair_off": "assets/onair-off.png",
+  "avatar_dan": "assets/avatar-dan.png",
+  "avatar_kate": "assets/avatar-kate.png",
   "logo": "https://cloud-1de12d.becdn.net/media/original/d74c6fce1ecb6034b42393fc7db41541/6sc-Logo-Blue-White.png",
   "nav": [
     [
@@ -48,6 +57,7 @@
   "cta_text": "Ready to build a marketing system that supports your business for years? Let's talk about your goals.",
   "about": [
     "The 6 String Creative Blog is where we share what we are learning while helping small businesses grow. Expect practical, honest advice you can act on this week.",
+    "The weekly articles also follow Marketing Tune-Up, our short podcast. Dan and Kate host it. Each post stands on its own, so you can use the advice even if you never press play.",
     "6 String Creative is a small, relationship-driven team in Greenwood, Indiana. We help local businesses with web design, social media, Google Business Profile, reviews, and local SEO."
   ],
   "footer_blurb": "You don't need another marketing task on your plate. You need a trusted partner and a clear plan that helps your business grow with confidence and consistency.",
