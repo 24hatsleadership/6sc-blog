@@ -2,6 +2,12 @@ name: Build and deploy site
 on:
   push:
     branches: [main]
+  schedule:
+    # Tuesday 16:45 UTC.
+    # 12:45 PM Eastern Daylight Time, and 11:45 AM Eastern Standard Time.
+    # Always after 11:30 AM America/New_York, so a post dated that Tuesday
+    # is already eligible when the date gate runs.
+    - cron: "45 16 * * 2"
   workflow_dispatch:
 permissions:
   contents: read
