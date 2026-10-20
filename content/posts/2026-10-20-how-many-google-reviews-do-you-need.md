@@ -8,7 +8,7 @@ author: "6 String Creative"
 episode: "2"
 minutes: "5"
 tag: "Reviews"
-video_id: ""
+video_id: "wfAPTYTKkp4"
 thumbnail: "assets/ep2-thumb.jpg"
 listen: "https://podcast.6stringcreative.com"
 ---
