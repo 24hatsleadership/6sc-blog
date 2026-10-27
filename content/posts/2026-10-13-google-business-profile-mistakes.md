@@ -8,7 +8,7 @@ author: "6 String Creative"
 episode: "1"
 minutes: "5"
 tag: "Google Business Profile"
-video_id: ""
+video_id: "VruWOLGBP9U"
 thumbnail: "assets/ep1-thumb.jpg"
 listen: "https://podcast.6stringcreative.com"
 ---
